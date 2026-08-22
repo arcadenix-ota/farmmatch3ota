@@ -1,0 +1,47 @@
+{
+    "version": "1.1.0",
+    "mainAssembly": "FarmMatch3.HotUpdate",
+    "entryType": "FarmMatch3.HotUpdate.HotUpdateEntry",
+    "aotMetaAssemblies": [
+        "mscorlib.dll",
+        "UnityEngine.CoreModule.dll",
+        "Zenject.dll"
+    ],
+    "hotUpdateAssemblies": [
+        "FarmMatch3.HotUpdate.dll"
+    ],
+    "catalogFile": "catalog_1.0.0.bin",
+    "minPlayerVersion": "1.0.0",
+    "files": [
+        {
+            "name": "FarmMatch3.HotUpdate.dll.bytes",
+            "size": 9728,
+            "md5": "7e274fd1981e95b1099c6e81fb875f13"
+        },
+        {
+            "name": "mscorlib.dll.bytes",
+            "size": 2167808,
+            "md5": "a5caa1db8a819eedd2cc737e1404030b"
+        },
+        {
+            "name": "UnityEngine.CoreModule.dll.bytes",
+            "size": 1039360,
+            "md5": "25b82241ed3c47a0242f8e1073fdaf0a"
+        },
+        {
+            "name": "Zenject.dll.bytes",
+            "size": 520192,
+            "md5": "17ee9075a19a71fdfad22c69b05fe967"
+        },
+        {
+            "name": "catalog_1.0.0.bin",
+            "size": 3884,
+            "md5": "5bba7b178ee8b021cdf3b5bbc39e6f56"
+        },
+        {
+            "name": "catalog_1.0.0.hash",
+            "size": 32,
+            "md5": "3a9b09b7ed0cd094bc330ed0a85abf99"
+        }
+    ]
+}
